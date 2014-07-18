@@ -1,4 +1,4 @@
-Mega_Lv-120
+Mega
 ===========
 
-lamp
+lv-120.LAMP
